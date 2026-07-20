@@ -1,0 +1,2 @@
+P:/Flutter Projects/hitk/build/.cxx/debug/122x1h4v/armeabi-v7a/CMakeFiles/edit_cache.dir
+P:/Flutter Projects/hitk/build/.cxx/debug/122x1h4v/armeabi-v7a/CMakeFiles/rebuild_cache.dir
